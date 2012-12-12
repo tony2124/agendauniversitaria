@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipo_contacto">
+        <item>Alumno</item>
+        <item>Docente</item>
+        <item>Amigo</item>
+        <item>Conct. prof.</item>
+        <item>Familia</item>
+        <item>Trabajo</item>
+        <item>Casa</item>
+        <item>Celular</item>
+        <item>Otro</item>
+    </string-array>
+</resources>
